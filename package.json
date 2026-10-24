@@ -1,0 +1,8 @@
+{
+  "name": "relieflog",
+  "version": "1.0.0",
+  "description": "ReliefLog: offline-first disaster-relief tracker (Electron frontend + Flask/TinyDB backend)",
+  "main": "main.js",
+  "scripts": { "start": "electron ." },
+  "devDependencies": { "electron": "^33.0.0" }
+}
