@@ -1,5 +1,0 @@
-node_modules/
-__pycache__/
-backend/data/
-*.pyc
-.DS_Store
