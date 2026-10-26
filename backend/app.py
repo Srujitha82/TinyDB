@@ -1,6 +1,4 @@
-"""ReliefLog backend: Flask REST API on top of TinyDB.
-Every response that touches the database includes a 'query' string so the
-frontend can show the exact TinyDB call (useful for the case-study demo)."""
+
 import os, re, time, shutil, tempfile
 from datetime import datetime
 from collections import Counter
